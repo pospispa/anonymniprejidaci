@@ -1,0 +1,17 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+
+{{ define "main" }}
+
+<div id="hero" class="wrap">
+  <h1>{{.Params.title}}</h1>
+</div>
+<ul id="posts">
+
+ {{ .Content }}
+
+</ul>
+{{ end }}
+{{ define "footer" }}
+  {{  }}
+{{ end }}
