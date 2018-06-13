@@ -12,7 +12,7 @@ Paginate = 4
   email = "myemail@myaddress.xxx"
 
 [[menu.main]]
-    name = "O nás"
+    name = "O Nás"
     weight = -100
     url = "/docs/"
 [[menu.main]]

@@ -1,7 +1,7 @@
 +++
 title = "Kontakty a Setkání"
 description = "Kontakty a informace o místech a časech setkání skupin Anonymních Přejídačů (OA) v České republice. Délka setkání činí zpravidla jednu hodinu."
-date = 2018-06-01T11:16:20Z
+date = 2018-06-05T11:16:20Z
 weight = 20
 draft = false
 bref = ""

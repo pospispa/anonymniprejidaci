@@ -1,6 +1,6 @@
 +++
-title = "Dvanáct Kroků OA"
-description = "Dvanáct kroků OA je řada zásad duchovní povahy, které v případě, že se uskutečňují jako způsob života, mohou potlačit nutkavé přejídání a umožnit trpícímu stát se znovu šťastným a užitečným plnohodnotným člověkem."
+title = "12 Kroků OA"
+description = "12 kroků OA je řada zásad duchovní povahy, které v případě, že se uskutečňují jako způsob života, mohou potlačit nutkavé přejídání a umožnit trpícímu stát se znovu šťastným a užitečným plnohodnotným člověkem."
 date = 2018-06-07T12:23:57Z
 weight = 20
 draft = false
