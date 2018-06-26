@@ -9,16 +9,16 @@ toc = false
 +++
 
 <ol>
-  <li>Naše společné blaho by mělo být na prvním místě, osobní uzdravení závisí na jednotě OA.</li>
-  <li>Pro účely naší skupiny je jedinou autoritou milující Bůh, tak jak se projevuje sám v našem skupinovém svědomí. Naši vedoucí představitelé jsou pouze spolehliví služebníci, kteří nám nevládnou.</li>
-  <li>Jediným požadavkem pro členství v OA je touha přestat se přejídat.</li>
-  <li>Každá skupina by měla být autonomní s výjimkou případů, které ovlivňují ostatní skupiny nebo OA jako celek.</li>
-  <li>Každá skupina má pouze jediný hlavní účel – předávat naše poselství přejídači, který stále trpí.</li>
-  <li>Skupina OA by nikdy neměla podporovat ani financovat jakékoliv příbuzné zařízení nebo podnik stojící mimo OA, ani mu propůjčovat jméno OA, aby nás problémy peněz, majetku a prestiže neodváděly od našeho hlavního účelu.</li>
-  <li>Každá skupina OA by měla být plně soběstačná a odmítat příspěvky z vnějšku.</li>
-  <li>Anonymní přejídači by měli vždy zůstat neprofesionální, avšak naše služební střediska mohou zaměstnávat potřebné pracovníky.</li>
-  <li>OA jako takové by nikdy nemělo být organizováno, ale můžeme vytvářet služební rady nebo komise přímo zodpovědné těm, kterým slouží.</li>
-  <li>Anonymní přejídači nemají názory na vnější otázky, proto by jméno OA nemělo být nikdy zataženo do veřejných sporů.</li>
-  <li>Naše vztahy s veřejností jsou založeny spíše na přitažlivosti Programu než na jeho propagaci; my vždy potřebujeme zachovávat osobní anonymitu na úrovni tisku, rozhlasu a filmu.</li>
-  <li>Anonymita je duchovním základem všech našich tradic, navždy nám připomínající abychom dávali přednost principům před osobnostmi.</li>
+  <li>Naše společné blaho je prvořadé. Naše osobní uzdravení závisí na jednotě společenství OA.</li>
+  <li>Na dosažení cíle našeho společenství je tu jen jedna autorita - milující Bůh, tak jak se projevuje ve svědomí celé skupiny. Naši vedoucí představitelé jsou jen důvěryhodnými služebníky, kteří nám nevládnou.</li>
+  <li>Jedinou podmínkou pro členství v OA je touha přestat nutkavě jíst.</li>
+  <li>Každá skupina OA by měla být zcela autonomní, kromě případů, které ovlivňují i jiné skupiny OA nebo společenství OA jako celek.</li>
+  <li>Každá skupina OA má jediný cíl – přinášet své poselství nutkavě se přejídajícímu člověku, který ještě trpí.</li>
+  <li>Skupina OA by se nikdy neměla hlásit k žádnému podobnému zařízení, ani ho finančně podporovat nebo mu propůjčovat jméno OA, protože problémy prestiže, peněz a majetku nás vzdalují od našeho prvořadého cíle.</li>
+  <li>Každá skupina OA by měla být úplně soběstačná a odmítat jakékoliv příspěvky z venku.</li>
+  <li>OA by mělo zůstat neprofesionální, ale střediska našich služeb mohou zaměstnávat odborníky.</li>
+  <li>OA jako takové by nemělo být organizované, ale může vytvářet služební předpisy a výbory, které jsou přímo zodpovědné těm, kterým slouží.</li>
+  <li>OA nezaujímá stanovisko k žádným problémům mimo společenství. Jméno OA by se nikdy nemělo zatahovat do veřejných sporů.</li>
+  <li>Naše vztahy k veřejnosti jsou založeny na přitažlivosti programu OA a ne na reklamě. V rozhlase, televizi a tisku musíme vždy zachovávat osobní anonymitu.</li>
+  <li>Anonymita tvoří duchovní podstatu všech našich tradic a připomíná nám nadřazenost principů nad osobnostmi.</li>
 </ol>
