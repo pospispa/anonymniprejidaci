@@ -11,21 +11,26 @@ toc = false
 <p>Odpověz ano nebo ne, podle toho, zda se Tě daná otázka týka či nikoliv.</p>
 
 <ol>
-  <li>Jíš, i když nemáš hlad?</li>
-  <li>Stáva se, Ti že máš záchvat jezení bez zjevné příčiny?</li>
-  <li>Cítiš se provinile, máš výčitky, když se prejíš (když máš záchvat přejídání)?</li>
-  <li>Věnuješ příliš mnoho času a myšlenek jídlu?</li>
-  <li>Tešíš se na chvíle, na potěšení z momentu, když budeš jíst sám/sama?</li>
-  <li>Plánuješ si tajně tyto záchvaty přejídání dopředu?</li>
-  <li>Jíš způsobně před ostatními a potom se dorazíš osamotě?</li>
-  <li>Ovlivňuje Tvoje hmotnost Tvůj způsob života?</li>
-  <li>Zkoušel/a jsi držet dietu (týden nebo déle), a i tak jsi selhal/a?</li>
-  <li>Rozčiluje Tě, když Ti ostatní říkají, že to chce "jen trochu pevné vůle," aby jsi se přestal/a přejídat?</li>
-  <li>Navzdory důkazům o tom, že to tak není, trváš na tom, že můžeš držet úspešně dietu, kdykoliv se rozhodneš?</li>
-  <li>Máš neovladatelnou chuť jíst v konkrétní čas během dne, večera či v noci, mimo obvyklý čas na jídlo?</li>
-  <li>Jíš, aby jsi unikl před starostmi a problémi?</li>
-  <li>Léčil/a jsi se někdy kvůli obezitě, nebo jinému problémů souvisejícímu s jídlem (anorexie, bulímie apod.)?</li>
-  <li>Cítiš se Ty, nebo druzí lidé nešťastný (děláš si Ty nebo druzí lidé starosti) kvůli Tvému vztahu z jídlu?</li>
+  <li>Jíte i když nemáte hlad?</li>
+  <li>Stává se vám, že máte záchvat potřeby jídla bez zjevné příčiny?</li>
+  <li>Cítíte se provinile a máte výčitky, když se přejíte (máte záchvaty přejídání)?</li>
+  <li>Věnujete příliš mnoho času a myšlenek jídlu?</li>
+  <li>Těšíte se na radost, kterou si dopřejete, až budete jíst o samotě?</li>
+  <li>Plánujete si tajně tyto záchvaty přejídání dopředu?</li>
+  <li>Jíte způsobně před ostatními a potom se dorazíte o samotě?</li>
+  <li>Ovlivňuje vaše hmotnost váš způsob života?</li>
+  <li>Zkoušeli jste držet dietu (týden nebo déle) a i tak jste selhali?</li>
+  <li>Rozčiluje vás, když vám ostatní říkají, že to chce „jen trochu pevné vůle“, abyste se přestali přejídat?</li>
+  <li>Přesto, že existují důkazy o tom, že to tak není, trváte na tom, že můžete úspěšně držet dietu kdykoliv se sami rozhodnete?</li>
+  <li>Máte neovladatelnou chuť jíst v určitém čase dne, večera či v noci, mimo obvyklého času na jídlo?</li>
+  <li>Jíte, abyste unikli před starostmi a problémy?</li>
+  <li>Léčili jste se někdy kvůli obezitě nebo jinému problému souvisejícímu s jídlem (anorexie, bulimie a podobně)?</li>
+  <li>Děláte si vy nebo jiní lidé starosti kvůli vašemu vztahu k jídlu?</li>
 </ol>
 
-<p>Pokud jsi odpověděl/a alespoň na tři otázky ano, veř že Tvůj problém s nutkavým přejídáním nebo s hladověním je vážný. Čím víc odpovědí ano jsi označil/a, tím více by jsi měl/a začít uvažovat o tom, jak by jsi vyhledal/a pomoc. Pomoc existuje. Např. i na setkáních OA.</p>
+<p>
+Odpověděli jste ano na tři nebo více otázek? Když ano, je pravděpodobné, že máte anebo jste na nejlepší cestě k tomu mít problém s nutkavým přejídáním.
+</p>
+<p>
+Jako nováček máte určitě mnoho otázek k tomuto programu uzdravování. Jak se OA program odlišuje od ostatních? Jak nám OA může pomoci uzdravit se z přejídání a dosáhnout zdravé váhy, když všechno co jste vyzkoušeli, selhalo? Může vám OA pomoci zastavit záchvaty přejídání a neúspěšné pokusy s dietami končícími „jojo“ efektem? Jak můžete dosáhnout osvobození od posedlosti jídlem a nutkavého jídla? Existuje vůbec nějaká naděje?
+</p>
