@@ -39,3 +39,61 @@ toc = true
     </tbody>
   </table>
 </p>
+
+<h3 class="section-head" id="skype"><a href="#skype">Skype</a></h3>
+<p>
+  <table>
+    <thead>
+      <tr>
+        <th>Skupina</th>
+        <th>Místo setkání</th>
+        <th>Čas setkání</th>
+        <th>Kontakt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Skype</td>
+        <td>
+          Online (SK + CZ), skype ID: <strong>oa.miting</strong> <br>
+          Nutno nejdříve požádat o přidání do <strong>oa.miting</strong>
+        </td>
+        <td class="w15">
+          Středa 19:00 <br>
+          Neděle 9:00
+        </td>
+        <td>
+          Věrka: 720 549 339 <br>
+          verfenix7@gmail.com
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</p>
+
+<h3 class="section-head" id="mailinglist"><a href="#mailinglist">Mailová skupina</a></h3>
+<p>
+  <table>
+    <thead>
+      <tr>
+        <th>Skupina</th>
+        <th>Místo setkání</th>
+        <th>Čas setkání</th>
+        <th>Kontakt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mailová skupina</td>
+        <td>
+          <a class="unstyled" href="http://groups.google.com/group/OA-slovensko">Mailová skupina OA slovensko</a>
+        </td>
+        <td class="w15">Pouze psaní</td>
+        <td>
+          Věrka: 720 549 339 <br>
+          verfenix7@gmail.com
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</p>
