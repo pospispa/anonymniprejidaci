@@ -9,7 +9,7 @@ toc = false
 +++
 
 <p>
-Zjistili jsme, že pevná vůle, sebedůvěra nebo psychické zdraví někdy nestačí v boji s nutkavým přejídánim. Zjistili jsme, že příčiny této nemoc nejsou až tak důležité jako skutečnost, že existuje osvědčená metoda pomocí které lze tuto nemoc zastavit.
+Zjistili jsme, že pevná vůle, sebedůvěra nebo psychické zdraví někdy nestačí v boji s nutkavým přejídánim. Zjistili jsme, že příčiny této nemoci nejsou až tak důležité jako skutečnost, že existuje osvědčená metoda pomocí které lze tuto nemoc zastavit.
 </p>
 
 <p>
