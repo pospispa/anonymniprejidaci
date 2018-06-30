@@ -1,6 +1,6 @@
 # Anonymni Prejidaci website
 
-Source code of the anonymni prejidaci website.
+Source code of the [anonymni prejidaci website](https://anonymniprejidaci.cz/).
 
 ## How to build the website
 
