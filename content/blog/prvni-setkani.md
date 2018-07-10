@@ -1,6 +1,7 @@
 +++
 title = "První setkání Anonymních Přejídačů (OA) v Brně"
 description = "Pozvánka na první setkání Anonymních Přejídačů (OA) v Brně."
+date = 2018-06-29T12:23:57Z
 weight = 20
 draft = false
 +++
