@@ -33,7 +33,7 @@ toc = true
         <td class="w15">Sobota 19:00</td>
         <td>
           Věrka: 720 549 339 <br>
-          verfenix7@gmail.com
+          kontakt@anonymniprejidaci.cz
         </td>
       </tr>
     </tbody>
@@ -64,7 +64,7 @@ toc = true
         </td>
         <td>
           Věrka: 720 549 339 <br>
-          verfenix7@gmail.com
+          kontakt@anonymniprejidaci.cz
         </td>
       </tr>
     </tbody>
@@ -91,7 +91,7 @@ toc = true
         <td class="w15">Pouze psaní</td>
         <td>
           Věrka: 720 549 339 <br>
-          verfenix7@gmail.com
+          kontakt@anonymniprejidaci.cz
         </td>
       </tr>
     </tbody>
