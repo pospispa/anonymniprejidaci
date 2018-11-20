@@ -51,7 +51,7 @@ Každý člověk má specifické zdravotní potřeby a míra jeho problému s j�
   </dd>
   <dt>Preambule OA</dt>
   <dd>
-    Anonymní Přejídači (OA) je společenství žen a mužů, kteří spolu sdílejí své zkušenosti, sílu a naději, že dovedou vyřešit svůj společný problém a pomoci ostatním k uzdravení z nutkavého přejídání. Nemáme žádné povinné poplatky nebo povinnosti. Společenství funguje na dobrovolných příspěvcích. Nepřijímáme žádné příspěvky z vnějšku. Tento program není součástí žádné veřejné nebo soukromé organizace, žádného náboženství nebo ideologie a nezajímá se o vnější záležitosti. Jediným cílem našeho programu je abstinovat od přejídání se a předávat toto poselství uzdravování dalším, kteří trpí.
+    Lidé s problémem nutkavého přejídání je společenství žen a mužů, kteří se skrz společnou zkušenost, sílu a naději snaží přestat se přejídat. Jedinou podmínkou členství v OA je upřímná touha přestat nutkavě jíst. Nejsou zde žádné povinné poplatky ani povinnosti. Fungujeme na základě vlastních dobrovolných příspěvků a nepřijímáme žádné vnější dary. Tento program není součástí žádné veřejné nebo soukromé organizace, žádného náboženství nebo ideologie a nezajímá se o žádné vnější záležitosti. Naším primárním účelem je abstinovat od přejídání a odevzdávat toto poselství uzdravování těm, kteří stále ještě trpí.
   </dd>
   <dt>Podmínky členství</dt>
   <dd>
