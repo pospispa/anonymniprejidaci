@@ -29,7 +29,7 @@ toc = true
             602 00 Brno-střed
           </a>
         </td>
-        <td class="w15">Sobota 19:00</td>
+        <td class="w15">dočasně pozastavena</td>
         <td>
           Věrka: 720 549 339 <br>
           kontakt@anonymniprejidaci.cz
