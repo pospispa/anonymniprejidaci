@@ -32,7 +32,6 @@ toc = true
         <td class="w15">dočasně pozastavena</td>
         <td>
           Věrka: 720 549 339 <br>
-          kontakt@anonymniprejidaci.cz
         </td>
       </tr>
     </tbody>
@@ -63,7 +62,6 @@ toc = true
         </td>
         <td>
           Věrka: 720 549 339 <br>
-          kontakt@anonymniprejidaci.cz
         </td>
       </tr>
     </tbody>
@@ -90,7 +88,6 @@ toc = true
         <td class="w15">Pouze psaní</td>
         <td>
           Věrka: 720 549 339 <br>
-          kontakt@anonymniprejidaci.cz
         </td>
       </tr>
     </tbody>
