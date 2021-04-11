@@ -53,12 +53,14 @@ toc = true
       <tr>
         <td>Skype</td>
         <td>
-          Online (SK + CZ), skype ID: <strong>oa.miting</strong> <br>
-          Nutno nejdříve požádat o přidání do <strong>oa.miting</strong>
+          Online (SK + CZ), <br>
+          <a class="unstyled" href="https://join.skype.com/hT57u3rNUjKW">středa skype ID: <strong>oa.miting</strong></a> <br>
+          <a class="unstyled" href="https://join.skype.com/dqbGiPWlvuu0">neděle skype ID: <strong>oa.miting</strong></a> <br>
+          Nutno nejdříve požádat o přidání do středeční a/nebo nedělní Skype skupiny.
         </td>
         <td class="w15">
-          Středa 19:00 <br>
-          Neděle 9:00
+          Středa 19:00 - 20:00 <br>
+          Neděle 9:00 - 10:00
         </td>
         <td>
           Věrka: 720 549 339 <br>
