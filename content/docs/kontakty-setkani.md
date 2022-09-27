@@ -31,7 +31,7 @@ toc = true
         </td>
         <td class="w15">dočasně pozastavena</td>
         <td>
-          Věrka: 720 549 339 <br>
+          Evženie: 606 650 961 <br>
         </td>
       </tr>
     </tbody>
@@ -63,7 +63,7 @@ toc = true
           Neděle 9:00 - 10:00
         </td>
         <td>
-          Věrka: 720 549 339 <br>
+          Evženie: 606 650 961 <br>
         </td>
       </tr>
     </tbody>
@@ -89,7 +89,7 @@ toc = true
         </td>
         <td class="w15">Pouze psaní</td>
         <td>
-          Věrka: 720 549 339 <br>
+          Evženie: 606 650 961 <br>
         </td>
       </tr>
     </tbody>
