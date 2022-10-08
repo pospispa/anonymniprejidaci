@@ -32,6 +32,7 @@ toc = true
         <td class="w15">dočasně pozastavena</td>
         <td>
           Evženie: 606 650 961 <br>
+          evza.trnkova@seznam.cz
         </td>
       </tr>
     </tbody>
@@ -64,6 +65,7 @@ toc = true
         </td>
         <td>
           Evženie: 606 650 961 <br>
+          evza.trnkova@seznam.cz
         </td>
       </tr>
     </tbody>
