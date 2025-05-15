@@ -39,7 +39,7 @@ toc = true
   </table>
 </p>
 
-<h3 class="section-head" id="skype"><a href="#skype">Skype</a></h3>
+<h3 class="section-head" id="skype"><a href="#skype">Online</a></h3>
 <p>
   <table>
     <thead>
@@ -52,16 +52,12 @@ toc = true
     </thead>
     <tbody>
       <tr>
-        <td>Skype</td>
+        <td>Online</td>
         <td>
-          Online (SK + CZ), <br>
-          <a class="unstyled" href="https://join.skype.com/hT57u3rNUjKW">středa skype ID: <strong>oa.miting</strong></a> <br>
-          <a class="unstyled" href="https://join.skype.com/dqbGiPWlvuu0">neděle skype ID: <strong>oa.miting</strong></a> <br>
-          Nutno nejdříve požádat o přidání do středeční a/nebo nedělní Skype skupiny.
+          <a class="unstyled" href="https://www.oaslovensko.sk/kontakty-a-stretnutia/">Online (SK + CZ)</a> <br>
+          Nutno nejdříve požádat o přidání do Teams skupiny.
         </td>
         <td class="w15">
-          Středa 19:00 - 20:00 <br>
-          Neděle 9:00 - 10:00
         </td>
         <td>
           Evženie: 606 650 961 <br>
